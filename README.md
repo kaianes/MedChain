@@ -1,2 +1,2 @@
-# MediChain
+# MedChain
 hackaton cartsesi
