@@ -1,0 +1,6 @@
+{
+    "fs": {
+      "files": ["echo.py", "entrypoint.sh"]
+    }
+  }
+  
