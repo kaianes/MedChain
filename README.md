@@ -1,2 +1,2 @@
 # MedChain
-hackaton cartsesi
+hackaton cartesi
